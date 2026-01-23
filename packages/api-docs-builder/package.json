@@ -12,7 +12,7 @@
     "@mui/markdown": "^5.0.0",
     "ast-types": "^0.14.2",
     "doctrine": "^3.0.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "react-docgen": "^5.4.3",
     "recast": "^0.22.0",
     "typescript-to-proptypes": "^5.0.0",
